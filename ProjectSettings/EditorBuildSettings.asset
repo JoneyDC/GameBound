@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Mario.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Asteroids.unity
+    guid: b712d4ce0dd3457459594ae75d28416e
+  - enabled: 1
+    path: Assets/Scenes/Donkey Kong.unity
+    guid: bbe8ba8385ba24449bc70ed8a824ad8b
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: 6fefa1676a2baae41b4c17428adde9ab
+  m_configObjects: {}
